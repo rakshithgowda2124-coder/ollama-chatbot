@@ -8,6 +8,10 @@ A simple AI chatbot built using HTML, CSS, JavaScript, and Ollama.
 
 ![Home Screen](https://github.com/rakshithgowda2124-coder/ollama-chatbot/blob/b61dba016d8c0ac9cbc3ddd4acfe15946729f9f8/home.png)
 
+### AI Response Example
+
+![Chat Example](https://github.com/rakshithgowda2124-coder/ollama-chatbot/blob/ccc9644a7c84f0a3bd19bbc20407243b3c7706f7/response.png)
+
 ## Features
 
 * Clean chatbot UI
